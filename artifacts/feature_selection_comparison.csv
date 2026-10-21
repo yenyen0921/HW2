@@ -1,0 +1,21 @@
+,SelectKBest,RFE,SFS (Forward),Lasso (L1),Permutation Imp,Total Votes
+TopographyDrainage,True,True,True,True,True,5
+RiverManagement,True,True,True,True,True,5
+DamsQuality,True,True,True,True,True,5
+Siltation,True,True,True,True,True,5
+PopulationScore,True,True,True,True,True,5
+PoliticalFactors,True,True,True,True,True,5
+IneffectiveDisasterPreparedness,True,True,True,True,True,5
+Encroachments,True,True,True,True,True,5
+Landslides,True,True,True,True,True,5
+Watersheds,True,True,False,True,True,4
+ClimateChange,True,True,True,True,False,4
+Urbanization,False,True,True,True,True,4
+CoastalVulnerability,False,True,False,True,True,3
+Deforestation,True,False,True,False,True,3
+DrainageSystems,False,True,False,True,True,3
+MonsoonIntensity,True,False,True,False,False,2
+DeterioratingInfrastructure,True,False,True,False,False,2
+AgriculturalPractices,False,False,False,False,False,0
+WetlandLoss,False,False,False,False,False,0
+InadequatePlanning,False,False,False,False,False,0

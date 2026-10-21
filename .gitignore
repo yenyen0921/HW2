@@ -1,0 +1,11 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large raw training file (59 MB, exceeds standard fast repo push)
+flood_train.csv
+
+# OS generated files
+.DS_Store
+Thumbs.db

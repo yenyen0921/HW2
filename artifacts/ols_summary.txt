@@ -1,0 +1,44 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:       FloodProbability   R-squared:                       0.846
+Model:                            OLS   Adj. R-squared:                  0.846
+Method:                 Least Squares   F-statistic:                     6573.
+Date:                Mon, 19 Oct 2026   Prob (F-statistic):               0.00
+Time:                        16:39:44   Log-Likelihood:                 59799.
+No. Observations:               24000   AIC:                        -1.196e+05
+Df Residuals:                   23979   BIC:                        -1.194e+05
+Df Model:                          20                                         
+Covariance Type:            nonrobust                                         
+===================================================================================================
+                                      coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------------------
+const                               0.5042      0.000   3898.369      0.000       0.504       0.504
+MonsoonIntensity                    0.0115      0.000     88.708      0.000       0.011       0.012
+TopographyDrainage                  0.0118      0.000     91.038      0.000       0.012       0.012
+RiverManagement                     0.0116      0.000     89.785      0.000       0.011       0.012
+Deforestation                       0.0116      0.000     89.673      0.000       0.011       0.012
+Urbanization                        0.0118      0.000     91.351      0.000       0.012       0.012
+ClimateChange                       0.0116      0.000     89.541      0.000       0.011       0.012
+DamsQuality                         0.0119      0.000     91.740      0.000       0.012       0.012
+Siltation                           0.0116      0.000     89.916      0.000       0.011       0.012
+AgriculturalPractices               0.0116      0.000     89.480      0.000       0.011       0.012
+Encroachments                       0.0119      0.000     91.608      0.000       0.012       0.012
+IneffectiveDisasterPreparedness     0.0116      0.000     89.794      0.000       0.011       0.012
+DrainageSystems                     0.0117      0.000     90.586      0.000       0.011       0.012
+CoastalVulnerability                0.0117      0.000     90.539      0.000       0.011       0.012
+Landslides                          0.0120      0.000     92.575      0.000       0.012       0.012
+Watersheds                          0.0118      0.000     90.756      0.000       0.012       0.012
+DeterioratingInfrastructure         0.0115      0.000     88.598      0.000       0.011       0.012
+PopulationScore                     0.0118      0.000     91.073      0.000       0.012       0.012
+WetlandLoss                         0.0114      0.000     88.065      0.000       0.011       0.012
+InadequatePlanning                  0.0114      0.000     87.723      0.000       0.011       0.012
+PoliticalFactors                    0.0120      0.000     92.673      0.000       0.012       0.012
+==============================================================================
+Omnibus:                     2136.412   Durbin-Watson:                   2.006
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             3317.493
+Skew:                           0.680   Prob(JB):                         0.00
+Kurtosis:                       4.212   Cond. No.                         1.16
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
