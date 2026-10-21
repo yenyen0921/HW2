@@ -1,6 +1,6 @@
 """
 ================================================================================
-AIoT DIC2 / HW2: 多元線性回歸 (Multiple Linear Regression) 與 CRISP-DM 實作分析
+AIoT HW2: 多元線性回歸 (Multiple Linear Regression) 與 CRISP-DM 實作分析
 學生學號: 7115064153
 資料來源: Kaggle: Playground Series S4E5 - Flood Prediction Dataset
 預測目標: FloodProbability (連續型數值變數)

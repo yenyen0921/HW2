@@ -1,4 +1,4 @@
-// In-browser Machine Learning & Linear Regression Workflow Engine for AIoT DIC2
+// In-browser Machine Learning & Linear Regression Workflow Engine for AIoT HW2
 // Author: yenyen0921
 
 (function(window) {

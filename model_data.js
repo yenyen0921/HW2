@@ -1,4 +1,4 @@
-// Multi-Problem Benchmark Model Data for AIoT DIC2 Multiple Linear Regression Explorer
+// Multi-Problem Benchmark Model Data for AIoT HW2 Multiple Linear Regression Explorer
 // Both Problem 1 and Problem 2 are official Kaggle datasets with >13 features (No 50 Startups, No Boston Housing)
 window.PROBLEMS_DATA = {
   "flood": {
